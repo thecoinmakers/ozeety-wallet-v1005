@@ -51,3 +51,21 @@ restart
 ```bash
 ozeetyd 
 ```
+
+
+to check if you are on the correct chain: 
+on the wallet: in debug console type in: 
+```bash
+getblockhash 92740
+```
+Output should be: 
+98ecbabc54aee33a10c09f60cdfd6fe75ddb13f376c30d4d5fbefe091b257141
+
+
+to check for the correct chain on the node: 
+check in putty as the user you setup the node: 
+```bash
+ozeety-cli getblockhash 92740
+```
+should be the same output:
+98ecbabc54aee33a10c09f60cdfd6fe75ddb13f376c30d4d5fbefe091b257141
