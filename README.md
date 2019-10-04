@@ -37,7 +37,7 @@ sudo wget https://www.dropbox.com/s/fgca4r6oj35a0dj/chain-1005-2.zip
 chmod 777 *
 ```
 ```bash
-unzip chain_1005.zip
+unzip chain-1005-2.zip
 ```
 
 ```bash
