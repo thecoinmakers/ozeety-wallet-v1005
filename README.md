@@ -27,7 +27,7 @@ sudo mv ozeetyd ozeety-cli ozeety-tx /usr/bin/
 cd .ozeety
 ```
 ```bash
-rm -R -f chainstate blocks .log mn.dat budget.dat peers.dat wallet.dat mncache.dat mnpayments.dat fee_estimates.dat db.log debug.log database/ backups/ ozeety.pid .lock
+rm -R -f chainstate blocks .log mn.dat budget.dat peers.dat  mncache.dat mnpayments.dat fee_estimates.dat db.log debug.log database/ backups/ ozeety.pid .lock
 ```
 Get chain 
 ```bash
