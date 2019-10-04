@@ -31,7 +31,7 @@ rm -R -f chainstate blocks .log mn.dat budget.dat peers.dat wallet.dat mncache.d
 ```
 Get chain 
 ```bash
-sudo wget https://github.com/thecoinmakers/ozeety-chain/raw/master/chain_1005.zip
+sudo wget https://www.dropbox.com/s/fgca4r6oj35a0dj/chain-1005-2.zip
 ```
 ```bash
 chmod 777 *
