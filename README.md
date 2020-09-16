@@ -69,3 +69,8 @@ ozeety-cli getblockhash 92740
 ```
 should be the same output:
 98ecbabc54aee33a10c09f60cdfd6fe75ddb13f376c30d4d5fbefe091b257141
+
+
+
+
+
